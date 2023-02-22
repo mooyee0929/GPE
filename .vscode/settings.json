@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "iomanip": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "map": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp"
+    }
+}
